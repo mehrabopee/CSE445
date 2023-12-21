@@ -1,0 +1,502 @@
+Gender,University,Year,Major,Interest,Support,Visit Resource,Announcement Check,Class Participation,Attendence,Study Hours,Group Study,CGPA,Stress Level,class
+Female,NSU,3rd,CSE,2,5,2,4,1,75-100,2,3,2.5-3,3,0
+Male,NSU,4th,CSE,3,4,4,5,4,75-100,2,3,2.5-3,3,0
+Male,NSU,4th,CSE,5,5,4,4,4,75-100,2,5,3.5+,0,1
+Female,IUBAT,4th,English,4,4,5,5,1,75-100,2,4,3-3.5,4,1
+Male,NSU,3rd,CSE,4,5,5,2,4,75-100,2,4,3-3.5,3,1
+Female,NSU,3rd,CSE,3,0,3,5,4,75-100,3,2,3.5+,3,1
+Male,NSU,4th,CSE,4,5,4,4,3,75-100,2,3,3-3.5,4,1
+Male,IUBAT,4th,English,2,5,2,3,2,10-25,2,1,2.5-3,1,0
+Female,IUBAT,4th,English,4,5,5,5,4,75-100,2,3,3-3.5,3,1
+Male,NSU,3rd,CSE,2,2,1,1,1,75-100,1,1,2.5-3,5,0
+Female,BRAC University,Post-Graduate or Others,Law,5,3,4,4,3,50-75,2,0,2.5-3,3,0
+Female,IUBAT,4th,English,4,4,5,5,4,75-100,1,5,3.5+,5,1
+Female,NSU,3rd,Biochemistry & Biotechnology,3,3,4,4,2,75-100,1,2,3-3.5,3,1
+Male,IUB,3rd,CS,3,5,5,2,3,75-100,2,4,3-3.5,3,1
+Male,NSU,4th,CSE,4,3,5,5,3,75-100,3,1,2.5-3,5,0
+Male,NSU,4th,CSE,5,3,5,5,2,75-100,1,1,2.5-3,5,0
+Male,BRAC University,Post-Graduate or Others,CSE,4,5,4,5,4,75-100,1,3,3.5+,4,1
+Female,University of Dhaka,4th,Biochemistry & Molecular Biology,4,5,3,3,3,75-100,4,2,3.5+,3,1
+Female,IUBAT,4th,English,4,5,5,5,4,50-75,1,5,3.5+,5,1
+Male,NSU,4th,CSE,4,3,4,5,3,75-100,3,3,3-3.5,5,1
+Male,NSU,4th,CSE,5,5,4,2,2,75-100,3,1,3.5+,3,1
+Female,ULAB,1st,English & Humanities,5,5,3,5,4,75-100,8,3,3.5+,3,1
+Female,NSU,4th,CSE,1,5,4,3,3,75-100,1,4,3-3.5,5,1
+Male,NSU,4th,EEE,3,3,1,5,2,10-25,2,0,2.5-3,5,0
+Female,NSU,4th,CSE,5,3,4,5,5,75-100,2,0,3.5+,4,1
+Male,NSU,4th,EEE,3,3,4,3,2,50-75,3,3,3-3.5,3,1
+Male,NSU,3rd,CSE,4,5,4,5,4,75-100,5,4,3-3.5,3,1
+Male,NSU,4th,CSE,4,4,5,5,4,75-100,2,4,3.5+,3,1
+Male,NSU,2nd,Marketing,5,4,4,5,5,75-100,2,3,2.5-3,2,0
+Male,NSU,4th,Finance,1,3,1,2,2,25-50,6,2,3-3.5,2,1
+Female,NSU,2nd,N/A,5,5,4,5,5,75-100,0,3,3.5+,2,1
+Male,UITS,4th,CSE,5,5,2,3,1,75-100,2,0,3.5+,5,1
+Male,IUT,2nd,EEE,3,5,5,3,3,50-75,4,3,3-3.5,5,1
+Female,NSU,3rd,CSE,5,5,3,2,4,75-100,4,2,3-3.5,3,1
+Female,NSU,4th,HRM,3,3,3,3,3,25-50,2,3,3-3.5,3,1
+Male,NSU,4th,CSE,3,2,3,3,2,75-100,2,1,3.5+,3,1
+Female,DIU,4th,Marketing,2,5,4,3,4,75-100,7,3,3-3.5,3,1
+Male,NSU,4th,CSE,3,4,5,5,3,25-50,1,1,2.5-3,4,0
+Male,NSU,4th,HRM & Marketing,3,3,3,4,4,75-100,1,2,3-3.5,2,1
+Male,IUBAT,4th,English,1,5,5,4,4,75-100,2,1,3-3.5,5,1
+Female,NSU,4th,CSE,4,5,5,5,5,75-100,1,5,1-2,5,0
+Female,BUP,Post-Graduate or Others,Finance & Banking,1,4,4,4,4,75-100,1,0,3.5+,4,1
+Female,NSU,2nd,CSE,5,5,5,5,5,75-100,5,3,3.5+,3,1
+Male,AIUB,1st,MIS,3,4,3,3,3,75-100,3,0,3.5+,4,1
+Female,BRAC University,4th,Biotechnology,4,3,4,3,5,75-100,3,3,3.5+,4,1
+Female,IUBAT,4th,Literature,0,1,0,5,0,0-10,0,0,2.5-3,5,0
+Male,NSU,4th,EEE,3,3,5,3,3,75-100,<1,4,3-3.5,5,1
+Female,NSU,3rd,CSE,3,5,5,4,5,75-100,3,3,3-3.5,5,1
+Female,NSU,4th,HRM,4,4,3,3,4,75-100,3,2,3-3.5,3,1
+Male,AIUB,Post-Graduate or Others,EEE,5,5,5,5,5,75-100,3,0,3.5+,3,1
+Female,NSU,3rd,CSE,3,4,2,5,3,75-100,5,4,2.5-3,3,0
+Male,NSU,4th,Finance,5,5,5,3,4,75-100,2,3,3-3.5,5,1
+Male,NSU,3rd,CSE,5,5,4,4,4,75-100,7,1,3.5+,3,1
+Female,IUBAT,4th,English,2,2,5,3,4,75-100,4,4,3-3.5,3,1
+Male,IUB,3rd,LLB,4,5,5,5,3,50-75,1,5,2.5-3,3,0
+Male,ULAB,4th,HRM,3,2,4,5,5,75-100,1,3,3-3.5,4,1
+Male,NSU,4th,CSE,1,4,5,5,2,75-100,2,0,3-3.5,5,1
+Female,University of Dhaka,4th,Management,4,2,3,3,2,75-100,2,3,3-3.5,2,1
+Male,NSU,3rd,EEE,5,2,5,3,5,75-100,6,0,3-3.5,0,1
+Female,NSU,1st,Environmental Science,3,3,4,3,3,75-100,1,2,2.5-3,1,0
+Female,ULAB,3rd,English,5,5,5,5,3,75-100,6,1,3.5+,4,1
+Male,NSU,4th,CSE,3,5,5,2,4,75-100,2,2,3.5+,2,1
+Male,NSU,4th,Finance & Economics,4,4,4,4,3,75-100,4,3,3-3.5,3,1
+Female,City Medical College,3rd,Medical,4,3,3,5,5,50-75,5,3,3.5+,3,1
+Male,University of Dhaka,3rd,Marketing,3,4,5,5,3,75-100,1,2,3-3.5,3,1
+Male,NSU,4th,CSE,4,0,5,5,3,75-100,0,0,3-3.5,5,1
+Female,NSU,4th,CSE,3,5,2,5,4,75-100,1,1,3.5+,4,1
+Male,NSU,4th,CSE,4,3,5,4,4,50-75,5,2,2.5-3,3,0
+Female,IUBAT,4th,English,5,2,5,4,4,50-75,5,4,3.5+,5,1
+Male,IUB,4th,EEE,5,3,5,5,5,75-100,1,5,3-3.5,5,1
+Male,NSU,3rd,CSE,3,3,3,5,5,25-50,1,4,3-3.5,4,1
+Male,NSU,3rd,Microbiology,4,5,5,5,5,75-100,2,2,3-3.5,5,1
+Male,AUST,Post-Graduate or Others,Yarn,3,5,3,2,3,25-50,1,3,2.5-3,4,0
+Female,NSU,2nd,CEE,0,3,5,3,2,75-100,1,1,2-2.5,3,0
+Female,Jashore University of Science and Technology,2nd,Environmental Science and Technology,3,4,5,2,3,75-100,2,2,3.5+,0,1
+Male,DIU,4th,Marketing,3,5,0,5,2,50-75,1,5,3-3.5,4,1
+Male,NSU,4th,CSE,5,4,5,5,4,75-100,2,3,3-3.5,2,1
+Female,University of Dhaka,4th,Sociology,3,5,1,5,3,75-100,1,3,3-3.5,4,1
+Male,NSU,Post-Graduate or Others,Pharmacy,3,5,4,3,3,75-100,1,4,3.5+,3,1
+Female,NSU,3rd,CSE,5,2,5,4,2,10-25,1,0,3.5+,5,1
+Female,NSU,3rd,Law,5,4,3,4,4,75-100,2,3,2.5-3,3,0
+Female,DIU,4th,N/A,5,5,5,5,5,75-100,5,4,3-3.5,2,1
+Male,IUT,4th,IPE,4,1,5,5,0,75-100,2,0,3-3.5,5,1
+Female,NSU,3rd,CSE,3,4,4,4,3,75-100,5,3,3-3.5,4,1
+Male,Dhaladia Degree College,3rd,Bangla,3,4,3,2,1,10-25,1,2,2.5-3,1,0
+Male,NSU,3rd,CSE,3,3,3,3,3,75-100,3,2,2-2.5,3,0
+Male,NSU,3rd,CSE,5,4,4,5,3,75-100,1,3,3.5+,4,1
+Female,University of Asia Pacific,2nd,CE,4,4,5,3,5,75-100,10,3,2.5-3,4,0
+Female,University of Dhaka,4th,EEE,5,5,2,4,4,75-100,3,3,3.5+,3,1
+Male,University of Dhaka,4th,EEE,3,5,5,5,1,75-100,2,2,3-3.5,4,1
+Male,University of Dhaka,4th,EEE,5,5,4,5,5,75-100,2,0,3.5+,4,1
+Male,University of Dhaka,4th,EEE,3,5,5,2,3,50-75,<1,0,3.5+,5,1
+Male,University of Dhaka,4th,EEE,3,5,5,3,0,25-50,2,2,3-3.5,5,1
+Male,University of Dhaka,4th,Applied Statistics,4,4,1,5,4,75-100,0,1,3-3.5,4,1
+Female,EWU,1st,Public Health,3,5,4,5,4,75-100,7,2,3-3.5,5,1
+Male,University of Dhaka,4th,EEE,4,5,5,1,1,25-50,7,3,3.5+,5,1
+Female,NSU,2nd,Biochemistry & Biotechnology,2,5,3,4,3,50-75,5,3,3-3.5,2,1
+Male,NSU,4th,CSE,3,5,2,2,2,75-100,1,2,2.5-3,1,0
+Female,IUBAT,4th,English,5,5,5,5,4,75-100,3,4,3.5+,5,1
+Male,NSU,4th,CSE,5,4,5,5,5,50-75,1,4,3-3.5,0,1
+Male,NSU,4th,CSE,4,3,4,3,2,75-100,1,0,3-3.5,4,1
+Female,Dhaka Medical College,4th,Medical,4,5,4,3,3,75-100,3,3,3.5+,4,1
+Female,NSU,1st,Marketing,5,5,5,3,5,75-100,4,3,3-3.5,4,1
+Male,NSU,1st,Accounting,5,5,4,4,5,75-100,2,3,3.5+,2,1
+Female,NSU,4th,CSE,2,2,5,4,2,75-100,0,3,2.5-3,5,0
+Male,NSU,4th,EEE,4,4,3,4,3,75-100,4,1,2.5-3,5,0
+Male,University of Dhaka,4th,EEE,4,3,4,2,3,75-100,2,0,3-3.5,4,1
+Male,IUBAT,3rd,Designing,2,1,2,2,2,0-10,8,3,2.5-3,1,0
+Male,BGMEA,3rd,Apparel,3,3,3,5,4,75-100,1,3,2.5-3,3,0
+Male,NSU,4th,CSE,4,4,5,3,4,75-100,2,3,3-3.5,4,1
+Female,NSU,2nd,Marketing,4,5,3,1,3,50-75,3,2,3-3.5,4,1
+Male,University of Rajshahi,Post-Graduate or Others,Law,5,4,5,3,3,75-100,3,1,3-3.5,3,1
+Female,University of Dhaka,3rd,Economics,3,2,4,5,0,75-100,2,1,3-3.5,5,1
+Female,NSU,4th,CSE,5,2,4,5,4,75-100,1,1,3.5+,3,1
+Female,Shanto-Mariam University of Creative Technology,4th,Law,4,5,4,3,4,50-75,2,4,3-3.5,4,1
+Male,NSU,4th,Finance & MIS,4,5,4,5,4,75-100,<1,4,3-3.5,5,1
+Male,AIUB,4th,CSE,2,3,3,2,2,75-100,1,3,3-3.5,3,1
+Male,NSU,4th,CSE,3,3,5,3,3,75-100,3,2,3-3.5,4,1
+Female,IUBAT,4th,English,4,2,4,4,3,50-75,1,3,3-3.5,3,1
+Male,NSU,4th,CSE,3,3,3,1,3,75-100,3,1,3-3.5,4,1
+Female,NSU,3rd,Biochemistry,2,5,3,5,5,75-100,5,5,2.5-3,5,0
+Female,NSU,3rd,CSE,4,4,4,5,5,75-100,3,0,3-3.5,3,1
+Female,NSU,1st,Marketing,4,2,5,5,5,75-100,1,4,3.5+,5,1
+Male,"CUET, DU, HEU",Post-Graduate or Others,"EEE, NE",5,3,5,4,5,75-100,3,3,3-3.5,3,1
+Male,NSU,4th,CSE,5,5,4,5,3,50-75,0,0,3-3.5,4,1
+Female,NSU,4th,CSE,2,3,5,3,3,75-100,1,0,3-3.5,5,1
+Male,NSU,4th,CSE,0,5,1,5,4,75-100,5,4,3-3.5,0,1
+Male,Sylhet Agricultural University,3rd,Agricultural Engineering & Technology,3,5,3,4,5,75-100,3,2,3.5+,3,1
+Male,National University,2nd,English,5,5,3,2,2,25-50,4,2,2.5-3,5,0
+Male,NSU,Post-Graduate or Others,CSE,4,5,5,4,3,50-75,8,0,2.5-3,2,0
+Female,University of Dhaka,4th,Botany,3,1,2,3,5,75-100,2,2,3.5+,5,1
+Male,NSU,3rd,CSE,4,4,5,3,5,75-100,6,1,3.5+,3,1
+Female,NSU,4th,CSE,2,0,1,5,2,75-100,1,0,2-2.5,5,0
+Female,IUBAT,4th,Literature,4,4,5,5,4,50-75,1,3,3-3.5,5,1
+Female,IUBAT,4th,English,3,4,5,3,4,50-75,2,3,3.5+,5,1
+Male,NSU,3rd,CSE,5,5,5,2,4,75-100,1,2,3-3.5,3,1
+Female,IUBAT,4th,English,5,5,5,5,3,50-75,3,4,3-3.5,5,1
+Female,ULAB,4th,English,4,5,4,5,4,75-100,1,2,2.5-3,5,0
+Male,NSU,Post-Graduate or Others,CSE,0,2,4,3,2,50-75,1,3,2.5-3,5,0
+Female,AIUB,4th,CSE,5,5,4,5,5,75-100,10,5,3.5+,4,1
+Male,Netrokona Medical College,4th,Medical,4,5,5,5,5,75-100,1,5,3.5+,4,1
+Female,NSU,3rd,CSE,3,3,5,5,2,25-50,4,1,2.5-3,3,0
+Female,NSU,3rd,Biochemistry & Biotechnology,2,0,2,5,5,75-100,2,1,2.5-3,4,0
+Female,Eden Mohila College,3rd,Psychology,5,4,3,4,2,50-75,2,4,3-3.5,4,1
+Male,AUST,3rd,Civil Engineering,4,3,5,4,4,50-75,3,1,2.5-3,5,0
+Female,Eden Mohila College,3rd,Sociology,5,5,5,3,5,50-75,4,5,3-3.5,5,1
+Female,NSU,4th,Finance,4,4,4,4,4,75-100,3,3,3-3.5,3,1
+Male,NSU,Post-Graduate or Others,CSE,4,4,5,3,5,50-75,1,4,3-3.5,1,1
+Male,NSU,3rd,CSE,3,1,4,2,2,75-100,<1,2,2-2.5,1,0
+Female,Gazipur Govt Mohila College,2nd,Bangla,4,3,0,3,5,50-75,4,2,3.5+,5,1
+Female,BUP,2nd,IR,5,4,5,4,4,75-100,8,3,3.5+,3,1
+Female,NSU,Post-Graduate or Others,CSE,4,3,5,5,4,75-100,2,1,2.5-3,5,0
+Male,NSU,4th,CSE,1,3,5,5,3,75-100,2,0,2.5-3,5,0
+Male,NSU,2nd,CSE,0,5,5,5,5,75-100,1,5,2.5-3,5,0
+Female,Eden Mohila College,3rd,Psychology,3,5,2,3,4,50-75,3,4,3-3.5,4,1
+Male,NSU,4th,CSE.,4,4,5,5,4,75-100,1,0,3-3.5,5,1
+Female,Mymensingh Engineering College,3rd,EEE,0,5,5,2,0,75-100,<1,0,3-3.5,5,1
+Male,NSU,3rd,CSE,4,5,4,3,2,75-100,2,3,2-2.5,4,0
+Female,NSU,4th,Law,5,5,5,4,4,75-100,3,5,3-3.5,5,1
+Female,Southeast University,4th,Bangla,5,5,5,5,4,50-75,<1,5,3.5+,3,1
+Male,AUST,4th,CSE,3,4,4,5,4,75-100,7,3,3-3.5,5,1
+Male,NSU,Post-Graduate or Others,CSE,5,5,5,5,3,75-100,<1,1,3-3.5,0,1
+Male,NSU,4th,CSE,2,2,3,2,1,10-25,3,2,3-3.5,2,1
+Female,UIU,3rd,CSE,3,3,5,4,2,50-75,1,0,2.5-3,5,0
+Male,NSU,4th,CSE,3,3,4,3,3,75-100,2,1,3-3.5,4,1
+Female,ULAB,3rd,Marketing,4,5,5,3,3,75-100,2,4,3-3.5,5,1
+Female,NSU,4th,CSE,4,5,5,4,3,75-100,5,2,3.5+,3,1
+Male,NSU,4th,CSE,2,1,3,4,1,50-75,<1,1,2.5-3,2,0
+Male,NSU,3rd,CSE,3,4,5,4,4,75-100,4,3,3-3.5,4,1
+Female,Eden Mohila College,3rd,Philosophy,2,2,1,5,5,50-75,<1,0,2.5-3,5,0
+Male,NSU,4th,CSE,2,4,3,2,0,50-75,1,2,2-2.5,5,0
+Male,NSU,4th,Marketing,2,2,1,1,2,10-25,1,2,3-3.5,2,1
+Male,NSU,4th,CSE,5,5,5,4,4,75-100,4,4,2.5-3,3,0
+Male,DIU,4th,CSE,3,3,3,2,1,50-75,3,3,3-3.5,3,1
+Male,NSU,4th,CSE,4,5,5,5,2,75-100,1,1,3.5+,4,1
+Male,NSU,3rd,CSE,4,5,5,3,3,50-75,1,1,2-2.5,5,0
+Male,NSU,4th,CSE,4,5,5,3,3,75-100,4,4,2.5-3,5,0
+Male,NSU,1st,CSE,4,4,5,5,4,75-100,2,1,3-3.5,3,1
+Male,NSU,4th,CSE,4,5,5,5,4,75-100,3,0,3-3.5,4,1
+Male,MIST,4th,Nuclear Science and Engineering,4,5,4,2,4,75-100,2,0,3.5+,5,1
+Male,BRAC University,3rd,EEE,3,4,3,3,3,75-100,4,3,3.5+,4,1
+Male,NSU,4th,CEE,4,5,3,5,3,75-100,4,2,3-3.5,3,1
+Female,NSU,4th,CSE,4,4,5,5,4,75-100,2,1,3-3.5,4,1
+Male,NSU,4th,CSE,3,3,3,5,4,75-100,2,1,3-3.5,4,1
+Female,NSU,4th,Economics,3,1,4,4,3,75-100,1,2,3-3.5,4,1
+Female,BRAC University,4th,English,5,5,5,5,5,75-100,2,1,3.5+,3,1
+Male,NSU,4th,CSE,4,5,5,4,2,50-75,1,1,2.5-3,4,0
+Female,University of Rajshahi,3rd,Fine Arts,4,5,4,3,3,75-100,7,3,3.5+,3,1
+Male,NSU,4th,Finance,4,4,5,4,5,75-100,2,3,3-3.5,4,1
+Male,NSU,3rd,Marketing,0,0,0,0,1,10-25,0,2,2-2.5,1,0
+Female,Uttara University,3rd,Law,5,3,1,1,5,75-100,3,5,3-3.5,5,1
+Male,UITS,4th,CSE,0,5,5,2,1,25-50,0,1,3-3.5,0,1
+Male,NSU,4th,CSE,2,1,5,5,2,75-100,4,5,2.5-3,5,0
+Male,NSU,Post-Graduate or Others,Pharmacy,4,5,4,4,4,75-100,2,2,3.5+,1,1
+Female,University of Rajshahi,3rd,Geology and Mining,2,5,2,0,1,50-75,3,0,2.5-3,2,0
+Male,NSU,4th,International Business,5,5,5,2,3,50-75,1,1,2.5-3,4,0
+Male,University of Rajshahi,4th,Population Science and Human Resources Development,3,5,4,3,4,75-100,<1,2,3-3.5,2,1
+Male,NSU,4th,EEE,4,5,5,5,4,75-100,3,5,2.5-3,5,0
+Female,IUB,4th,HRM,4,4,5,5,3,75-100,5,1,3.5+,4,1
+Male,BUET,4th,Material Science,3,3,4,3,4,75-100,2,1,3-3.5,5,1
+Female,NSU,1st,Marketing,5,5,5,5,5,75-100,3,3,3.5+,5,1
+Female,Eden Mohila College,3rd,Psychology,4,3,4,4,4,75-100,2,3,3-3.5,4,1
+Female,IUBAT,2nd,Finance,4,5,5,5,5,75-100,3,2,3-3.5,4,1
+Male,IUBAT,4th,English,5,5,3,5,5,75-100,4,3,3.5+,1,1
+Female,BRAC University,2nd,Pharmacy,5,5,5,5,4,75-100,3,3,3.5+,5,1
+Male,NSU,3rd,CSE,5,5,5,5,5,75-100,6,3,3-3.5,5,1
+Male,NSU,4th,CSE,2,4,5,4,3,50-75,0,0,2-2.5,4,0
+Male,BRAC University,3rd,CSE,4,5,3,3,1,75-100,2,1,3-3.5,5,1
+Male,NSU,4th,CSE,2,4,5,2,4,75-100,2,2,3.5+,3,1
+Female,National University,3rd,Political Science,2,5,2,4,2,25-50,1,0,3-3.5,3,1
+Male,IUBAT,4th,English,5,5,4,3,4,75-100,3,2,3-3.5,3,1
+Female,National University,4th,Botany,4,5,3,5,4,50-75,2,3,3.5+,1,1
+Male,NSU,3rd,CSE,3,4,5,5,1,75-100,1,0,3-3.5,5,1
+Female,Sylhet Agricultural University,3rd,Fisheries,4,5,5,4,4,75-100,7,2,3.5+,4,1
+Male,NSU,4th,CSE,4,5,5,2,3,75-100,2,2,3-3.5,1,1
+Male,NSU,4th,CSE,3,5,2,2,4,75-100,1,4,3-3.5,4,1
+Male,BRAC University,3rd,CSE,3,5,5,5,3,75-100,1,5,2.5-3,5,0
+Male,NSU,3rd,CSE,4,5,5,5,4,75-100,<1,0,2.5-3,3,0
+Female,Bhawal Badre Alom Govt. College,3rd,Botany,3,5,5,5,4,25-50,2,0,3-3.5,4,1
+Female,IUBAT,4th,English,4,4,3,2,4,50-75,3,3,2.5-3,3,0
+Male,BGMEA,3rd,Apparel Manufacturing & Technology,2,5,3,3,2,50-75,<1,3,3-3.5,2,1
+Male,University of Barishal,2nd,Soil and Environmental Sciences,2,5,4,3,4,75-100,1,1,3-3.5,0,1
+Male,BRAC University,2nd,CSE,5,5,5,4,4,75-100,<1,1,3-3.5,0,1
+Female,Eden Mohila College,3rd,Psychology,5,5,3,5,5,50-75,2,2,3-3.5,3,1
+Female,University of Dhaka,2nd,Art and Creative Studies,1,5,5,5,5,50-75,2,5,3-3.5,5,1
+Male,NSU,Post-Graduate or Others,Marketing,3,5,4,3,3,75-100,2,2,2.5-3,4,0
+Female,NSU,2nd,Biochemistry,5,5,1,5,3,75-100,2,1,3-3.5,4,1
+Male,NSU,2nd,Accounting,4,5,5,4,4,50-75,2,3,3-3.5,3,1
+Female,Bangabandhu Sheikh Mujibur Rahman Agriculture University,1st,Economics,3,5,5,5,5,75-100,4,1,3-3.5,2,1
+Female,BGMEA,3rd,English,5,5,5,5,5,50-75,4,1,3-3.5,4,1
+Male,AUST,4th,CSE,3,2,5,4,3,50-75,4,3,3.5+,5,1
+Male,NSU,4th,CSE,2,3,5,4,3,75-100,1,0,2.5-3,5,0
+Male,University of Dhaka,2nd,Medical,3,5,4,3,5,75-100,5,0,3.5+,4,1
+Male,NSU,2nd,CSE,2,5,5,5,5,75-100,2,0,3.5+,1,1
+Male,NSU,4th,HRM,3,3,3,3,2,75-100,3,3,3-3.5,3,1
+Male,BRAC University,4th,CSE,4,5,5,4,3,75-100,2,4,3.5+,5,1
+Male,Model Institute of Science and Technology,4th,Textile,5,5,5,5,5,75-100,1,5,3.5+,1,1
+Female,Dream University of Bangladesh,1st,Finance,5,2,5,5,5,50-75,1,3,3.5+,5,1
+Female,NSU,4th,EEE,4,3,2,4,1,75-100,1,0,3-3.5,5,1
+Female,NSU,4th,Marketing,0,3,5,2,2,25-50,0,1,2.5-3,5,0
+Male,AIUB,4th,CSE,4,4,4,3,5,75-100,2,1,3.5+,1,1
+Male,NSU,4th,CSE,4,5,4,4,3,75-100,3,2,2.5-3,5,0
+Male,NSU,Post-Graduate or Others,International Business,5,5,4,4,4,75-100,3,4,3.5+,4,1
+Male,BGMEA,4th,English,3,4,5,5,5,75-100,0,1,2.5-3,1,0
+Male,NSU,4th,CSE,3,5,5,3,3,75-100,2,1,3-3.5,5,1
+Male,NSU,2nd,Marketing,5,5,3,4,5,75-100,2,5,2-2.5,5,0
+Male,NSU,3rd,Finance,4,4,4,5,4,75-100,2,3,2.5-3,5,0
+Female,BGMEA,4th,English,4,5,4,5,4,75-100,1,1,3-3.5,3,1
+Female,University of Dhaka,3rd,Resources Management and Entrepreneurship,3,4,2,5,3,25-50,1,0,3-3.5,4,1
+Female,National College of Home Economics,3rd,Resources Management and Entrepreneurship,4,5,5,3,4,25-50,3,1,3-3.5,4,1
+Female,National College of Home Economics,3rd,Child Development and Social Relationship,3,3,2,4,2,10-25,3,0,3-3.5,2,1
+Male,NSU,4th,EEE,2,3,2,1,3,50-75,3,0,2.5-3,1,0
+Female,NSU,2nd,CSE,2,5,5,5,5,75-100,3,3,2-2.5,5,0
+Female,University of Dhaka,2nd,Child Development and Social Relationship,3,5,4,2,4,75-100,7,3,2.5-3,5,0
+Female,University of Dhaka,3rd,Economics,4,4,5,5,1,75-100,2,3,3-3.5,4,1
+Female,National College of Home Economics,3rd,Resources Management and Entrepreneurship,3,5,4,5,4,50-75,2,2,3-3.5,5,1
+Female,University of Dhaka,2nd,Child Development and Social Relationship,3,4,4,3,3,50-75,2,3,3.5+,5,1
+Female,University of Dhaka,3rd,Economics,3,3,4,4,5,75-100,4,3,3-3.5,5,1
+Female,NSU,2nd,CSE,1,1,0,5,2,10-25,3,2,2-2.5,2,0
+Female,Govt College of Applied Human Science,3rd,Resource Management,3,5,1,3,5,75-100,3,4,3-3.5,4,1
+Female,University of Dhaka,4th,Information Science and Library Management,3,5,5,5,2,50-75,0,1,3-3.5,5,1
+Male,BRAC University,Post-Graduate or Others,CSE,3,5,5,3,1,75-100,<1,1,3.5+,3,1
+Male,BUP,3rd,Finance & Banking,5,3,4,3,4,75-100,<1,4,3-3.5,5,1
+Male,NSU,4th,HRM,5,5,5,3,5,75-100,1,2,3-3.5,2,1
+Female,SUST,4th,"Immunology, Genetic Engineering,Clinical Biochemistry",5,5,5,3,4,75-100,4,1,3.5+,5,1
+Male,NSU,4th,CSE,4,4,4,5,5,75-100,5,3,3-3.5,4,1
+Female,BGMEA,1st,Merchandising,3,5,4,5,5,75-100,2,5,2.5-3,5,0
+Male,AIUB,4th,CSE,4,4,5,4,5,75-100,3,3,3-3.5,3,1
+Female,Bhawal Badre Alom Govt. College,2nd,Political Science,4,3,5,0,5,75-100,5,0,3-3.5,3,1
+Female,IUBAT,3rd,CSE,3,5,5,5,2,75-100,6,3,3-3.5,5,1
+Female,NSU,3rd,Microbiology,2,5,3,5,5,75-100,4,2,3-3.5,1,1
+Female,NSU,4th,CSE,1,4,4,4,3,75-100,2,4,3-3.5,4,1
+Male,BGMEA,4th,Apparel,3,5,3,5,3,50-75,1,2,3-3.5,0,1
+Female,Shanto-Mariam University of Creative Technology,1st,English,1,4,5,3,2,25-50,2,3,3.5+,2,1
+Female,NSU,2nd,EEE,0,5,1,2,2,25-50,3,3,2.5-3,2,0
+Male,NSU,Post-Graduate or Others,Finance & Economics,4,4,5,5,3,75-100,<1,0,2.5-3,3,0
+Female,AIUB,4th,CSE,4,5,3,5,3,75-100,3,3,3-3.5,3,1
+Male,NSU,4th,Marketing,5,4,5,5,5,75-100,4,3,3-3.5,3,1
+Male,NSU,4th,CSE,1,4,4,4,2,75-100,2,0,3-3.5,5,1
+Male,NSU,2nd,N/A,2,3,5,2,2,75-100,3,3,2.5-3,5,0
+Female,Comilla Medical College,4th,Medical,5,5,2,2,2,75-100,6,2,3-3.5,5,1
+Female,NSU,3rd,CSE,4,4,5,4,3,75-100,1,2,3-3.5,4,1
+Female,DIU,4th,HRM,4,0,0,2,2,50-75,<1,2,3-3.5,4,1
+Male,NSU,4th,CSE,4,4,5,4,5,75-100,5,4,3-3.5,4,1
+Male,NSU,3rd,CSE,5,5,5,5,3,75-100,6,5,3.5+,5,1
+Female,NSU,3rd,CSE,3,4,5,2,2,50-75,<1,0,2-2.5,5,0
+Female,NSU,Post-Graduate or Others,CSE,3,2,2,2,1,75-100,3,1,3-3.5,3,1
+Male,NSU,4th,CSE,4,4,4,4,4,75-100,5,3,3-3.5,0,1
+Male,BGMEA,2nd,Fashion Designing & Technology,4,4,5,5,4,50-75,<1,3,2.5-3,5,0
+Female,MBSTU,2nd,Biochemistry & Molecular Biology,5,5,5,5,5,75-100,2,2,3.5+,4,1
+Female,Bangladesh Home Economics College,Post-Graduate or Others,Food and Nutrition,5,5,5,5,5,50-75,2,0,3-3.5,1,1
+Female,NSU,4th,CSE,5,4,5,5,3,75-100,<1,2,3.5+,3,1
+Male,NSU,Post-Graduate or Others,CSE,2,3,4,5,3,25-50,2,1,2.5-3,0,0
+Male,IUT,3rd,Structure,4,4,5,5,4,75-100,2,3,3-3.5,5,1
+Male,NSU,1st,Microbiology,5,0,5,5,3,75-100,2,2,3-3.5,3,1
+Female,NSU,4th,CSE,2,1,5,1,2,75-100,1,3,2.5-3,4,0
+Female,NSU,4th,CSE,0,3,5,4,4,75-100,2,3,3-3.5,4,1
+Female,NSU,1st,N/A,5,5,4,5,4,75-100,<1,0,3-3.5,0,1
+Male,NSU,4th,CSE,3,3,4,5,3,75-100,1,3,2.5-3,3,0
+Male,NSU,4th,CSE,3,4,4,5,1,75-100,2,1,2.5-3,5,0
+Male,NSU,2nd,CSE,4,5,4,4,5,75-100,2,2,3.5+,3,1
+Female,NSU,4th,CSE,2,1,5,3,1,75-100,1,2,3.5+,5,1
+Male,NSU,4th,CSE,3,3,4,3,3,75-100,2,2,3-3.5,5,1
+Male,NSU,1st,EEE,3,5,5,5,2,75-100,2,3,3-3.5,3,1
+Male,NSU,3rd,CSE,3,4,4,3,4,75-100,3,2,3-3.5,3,1
+Female,NSU,1st,CSE,4,5,4,5,2,75-100,2,0,3-3.5,3,1
+Female,NSU,3rd,CSE,2,5,3,3,5,75-100,6,4,3.5+,0,1
+Female,NSU,3rd,EEE,4,4,3,2,4,75-100,2,0,3.5+,3,1
+Male,Jagannath University,3rd,Physics,5,5,4,4,5,75-100,3,5,3-3.5,3,1
+Male,NSU,2nd,CSE,2,4,3,3,3,25-50,2,3,2.5-3,3,0
+Female,NSU,1st,N/A,2,5,3,3,3,75-100,2,1,2.5-3,0,0
+Male,NSU,4th,Marketing,3,3,3,2,3,75-100,3,3,2.5-3,3,0
+Male,NSU,Post-Graduate or Others,Marketing,5,5,5,5,5,75-100,3,3,2.5-3,4,0
+Male,NSU,3rd,Finance and MIS,1,5,5,5,3,50-75,1,3,3-3.5,4,1
+Male,NSU,4th,CSE,3,3,3,2,5,75-100,1,2,2.5-3,2,0
+Male,NSU,4th,Economics,4,1,4,4,4,75-100,5,3,3-3.5,3,1
+Male,NSU,4th,Marketing,5,4,3,5,5,75-100,<1,4,2.5-3,1,0
+Male,University of Dhaka,Post-Graduate or Others,Marketing,4,5,1,1,2,10-25,1,0,3-3.5,1,1
+Male,NSU,4th,CSE,4,3,4,4,4,50-75,5,4,3-3.5,4,1
+Male,NSU,2nd,CSE,1,4,5,2,2,50-75,<1,3,2-2.5,5,0
+Male,NSU,2nd,CEE,2,3,2,3,3,75-100,3,3,3.5+,3,1
+Female,NSU,Post-Graduate or Others,CEE,4,5,5,4,3,75-100,2,3,3-3.5,1,1
+Male,NSU,Post-Graduate or Others,CEE,5,5,5,4,4,75-100,3,3,3.5+,0,1
+Female,NSU,Post-Graduate or Others,CEE,5,5,3,4,4,75-100,4,1,3.5+,4,1
+Female,NSU,3rd,CEE,5,5,5,5,3,50-75,1,3,3.5+,5,1
+Female,NSU,4th,HRM,4,4,4,4,4,50-75,4,3,2.5-3,4,0
+Male,NSU,4th,Marketing,4,4,5,5,4,75-100,2,0,2-2.5,4,0
+Female,NSU,3rd,Law,4,5,5,5,4,75-100,1,4,3-3.5,5,1
+Male,NSU,2nd,CSE,5,5,3,5,5,75-100,1,3,3.5+,2,1
+Male,NSU,2nd,Media Communication and Journalism,3,3,4,4,5,75-100,2,2,3-3.5,3,1
+Female,NSU,2nd,CSE,5,3,4,4,3,50-75,1,1,3.5+,2,1
+Male,NSU,2nd,CSE,5,5,4,4,4,50-75,3,4,3-3.5,3,1
+Male,NSU,2nd,Economics,5,1,5,4,5,75-100,3,0,3.5+,0,1
+Female,NSU,3rd,CSE,4,5,5,5,5,75-100,4,2,3-3.5,5,1
+Male,NSU,1st,EEE,5,5,4,3,5,75-100,5,3,3-3.5,5,1
+Female,NSU,3rd,Finance,3,1,4,5,4,75-100,1,1,3.5+,2,1
+Female,NSU,3rd,CSE,5,4,5,5,3,75-100,1,0,2.5-3,5,0
+Male,NSU,2nd,CSE,3,5,5,3,3,75-100,<1,0,2.5-3,4,0
+Female,NSU,3rd,CSE,1,5,3,5,2,25-50,1,1,2.5-3,3,0
+Female,NSU,1st,CEE,4,5,3,5,5,75-100,6,5,3-3.5,4,1
+Male,NSU,3rd,Marketing,4,3,4,4,3,75-100,<1,1,3-3.5,2,1
+Male,NSU,4th,CSE,4,3,5,4,4,75-100,5,4,3.5+,3,1
+Female,NSU,3rd,Biochemistry & Biotechnology,5,3,5,4,4,75-100,2,3,3-3.5,4,1
+Male,NSU,2nd,CSE,4,2,4,3,3,75-100,3,0,3-3.5,4,1
+Male,NSU,3rd,CSE,4,5,4,2,3,75-100,3,2,3-3.5,4,1
+Male,NSU,4th,Marketing,4,3,3,4,2,75-100,<1,2,3-3.5,2,1
+Male,NSU,1st,Architecture,5,3,2,0,4,50-75,2,2,2.5-3,0,0
+Female,NSU,3rd,CSE,4,5,5,5,5,75-100,5,5,2.5-3,3,0
+Female,NSU,2nd,Architecture,5,5,3,4,5,75-100,5,5,2-2.5,5,0
+Female,NSU,3rd,CSE,3,5,4,3,3,75-100,4,3,3-3.5,5,1
+Male,NSU,3rd,CSE,5,5,4,5,5,75-100,6,5,2.5-3,3,0
+Female,NSU,1st,Law,3,1,5,1,1,50-75,<1,1,3-3.5,1,1
+Male,NSU,1st,CSE,3,2,5,4,1,75-100,<1,0,2.5-3,3,0
+Male,NSU,3rd,CSE,5,3,4,3,5,75-100,2,0,3.5+,4,1
+Male,NSU,4th,CSE,5,5,5,5,5,75-100,2,2,3.5+,3,1
+Female,NSU,1st,CSE,3,5,5,4,3,50-75,<1,0,3-3.5,4,1
+Female,NSU,4th,EEE,3,4,2,2,2,75-100,4,5,3-3.5,5,1
+Female,NSU,1st,CSE,1,5,5,4,2,50-75,2,0,3-3.5,4,1
+Female,NSU,1st,EEE,3,5,5,5,0,75-100,2,0,2.5-3,4,0
+Female,NSU,3rd,Economics,4,4,3,5,4,75-100,1,0,3.5+,3,1
+Male,NSU,4th,CSE,4,4,4,5,2,50-75,2,1,2.5-3,3,0
+Female,IUBAT,2nd,Economics,0,5,3,5,5,50-75,3,4,3-3.5,2,1
+Male,NSU,3rd,EEE,5,5,5,3,1,75-100,2,0,2-2.5,5,0
+Male,NSU,Post-Graduate or Others,Epidemiology,5,5,5,3,5,75-100,2,2,3.5+,1,1
+Male,NSU,4th,CSE,5,4,5,4,3,75-100,<1,1,3-3.5,2,1
+Male,NSU,4th,Pharmacy,5,3,5,5,5,75-100,6,4,3.5+,5,1
+Male,NSU,2nd,CSE,4,5,3,2,1,50-75,1,3,3-3.5,2,1
+Male,NSU,4th,CSE,5,5,5,3,5,75-100,4,3,3.5+,5,1
+Female,NSU,4th,Biotechnology,4,2,3,5,3,50-75,4,3,2.5-3,3,0
+Male,BUET,3rd,Mechanical Engineering,5,5,5,4,3,50-75,2,3,3-3.5,2,1
+Male,NSU,3rd,Finance,5,5,5,5,5,75-100,6,5,3.5+,5,1
+Male,NSU,4th,Finance,3,5,4,2,3,75-100,2,1,3-3.5,3,1
+Male,NSU,2nd,Finance,3,4,4,4,3,75-100,1,5,3-3.5,5,1
+Male,NSU,4th,Finance,3,5,4,3,0,75-100,1,2,2.5-3,4,0
+Male,University of Dhaka,1st,Accounting,4,4,5,3,4,25-50,5,4,3.5+,4,1
+Male,NSU,4th,Finance,5,5,5,5,3,75-100,6,5,2-2.5,5,0
+Female,NSU,3rd,CSE,5,5,5,5,3,75-100,<1,1,3-3.5,4,1
+Male,NSU,Post-Graduate or Others,EEE,4,5,4,4,4,25-50,2,2,3-3.5,4,1
+Male,NSU,3rd,CSE,4,5,5,5,2,75-100,1,2,2-2.5,5,0
+Male,NSU,4th,CSE,2,2,3,4,2,50-75,<1,1,2-2.5,2,0
+Male,NSU,2nd,N/A,1,5,5,5,5,75-100,4,3,3-3.5,4,1
+Male,NSU,4th,CSE,4,5,3,5,3,75-100,2,0,2-2.5,4,0
+Male,NSU,4th,Finance,3,5,4,4,4,75-100,3,3,2-2.5,2,0
+Male,NSU,4th,CSE,3,4,4,5,2,75-100,1,2,2.5-3,4,0
+Female,NSU,3rd,CSE,2,5,4,5,1,75-100,2,3,3-3.5,5,1
+Female,NSU,4th,EEE,0,4,5,5,0,75-100,24,5,3.5+,0,1
+Female,NSU,Post-Graduate or Others,CSE,3,3,3,4,3,75-100,4,4,2.5-3,3,0
+Male,NSU,3rd,Microbiology,3,4,2,2,1,75-100,3,3,2.5-3,3,0
+Male,NSU,2nd,CSE,5,5,3,1,4,75-100,2,4,3.5+,0,1
+Male,NSU,Post-Graduate or Others,EEE,5,4,5,4,4,75-100,2,2,3.5+,5,1
+Female,NSU,3rd,Accounting,4,4,2,5,5,75-100,2,5,3.5+,3,1
+Male,NSU,Post-Graduate or Others,Marketing,3,2,2,2,2,25-50,2,2,2.5-3,2,0
+Male,NSU,2nd,CSE,2,5,3,3,2,10-25,<1,0,2-2.5,5,0
+Male,NSU,4th,EEE,3,5,5,4,3,50-75,5,3,3-3.5,4,1
+Male,NSU,3rd,Finance and MIS,4,5,4,3,5,75-100,2,2,3.5+,5,1
+Male,NSU,2nd,Pharmacy,4,4,5,3,5,75-100,2,1,3-3.5,3,1
+Male,NSU,2nd,Marketing,4,4,5,4,4,75-100,2,2,2.5-3,5,0
+Male,NSU,1st,Law,5,5,3,3,4,75-100,1,3,2.5-3,5,0
+Male,NSU,2nd,Finance,3,5,5,2,5,75-100,2,1,3.5+,1,1
+Male,NSU,2nd,Finance and MIS,5,5,4,5,4,75-100,0,0,3.5+,3,1
+Female,NSU,2nd,N/A,4,5,3,1,3,75-100,<1,0,3.5+,1,1
+Female,NSU,2nd,N/A,3,5,4,3,1,75-100,<1,1,3-3.5,3,1
+Male,NSU,1st,EEE,1,0,5,4,3,75-100,1,1,1-2,1,0
+Male,NSU,2nd,N/A,4,4,3,3,5,75-100,<1,2,3-3.5,1,1
+Female,NSU,2nd,CSE,3,5,4,5,4,75-100,4,0,3.5+,2,1
+Male,NSU,4th,Supply Chain Management,3,3,4,2,3,75-100,1,2,2.5-3,3,0
+Male,NSU,4th,Finance,5,5,3,5,5,75-100,4,2,3-3.5,5,1
+Male,NSU,2nd,Marketing,3,3,4,4,3,75-100,2,4,3-3.5,5,1
+Male,NSU,2nd,Civil Engineering,3,4,3,4,4,25-50,4,1,2.5-3,4,0
+Male,NSU,4th,Finance,4,3,5,4,4,75-100,<1,0,3.5+,1,1
+Male,NSU,Post-Graduate or Others,EEE,4,5,4,4,5,75-100,3,0,3-3.5,3,1
+Male,BUET,4th,Materials and Metallurgical Engineering,5,3,5,5,3,75-100,3,1,3.5+,5,1
+Female,NSU,2nd,EEE,5,5,3,5,4,75-100,<1,0,3.5+,0,1
+Male,NSU,4th,CEE,4,4,4,3,3,75-100,4,3,3-3.5,4,1
+Male,NSU,2nd,CSE,5,5,4,5,4,75-100,5,3,3.5+,3,1
+Female,Govt College of Applied Human Science,3rd,Resource Management and Entrepreneurship,2,2,4,2,3,25-50,1,0,3-3.5,2,1
+Male,Northern University Bangladesh,Post-Graduate or Others,Accounting,4,5,1,1,4,75-100,0,2,2.5-3,0,0
+Female,Bangabandhu Sheikh Mujibur Rahman Aviation and Aerospace University,1st,Aerospace Engineering,5,5,5,1,0,50-75,4,1,3.5+,4,1
+Female,IUBAT,4th,English,4,4,4,4,2,50-75,1,0,2.5-3,5,0
+Male,NSU,Post-Graduate or Others,CSE,5,2,5,3,1,75-100,3,3,3.5+,2,1
+Female,NSU,1st,Law,5,5,2,5,4,75-100,3,4,3-3.5,5,1
+Male,NSU,4th,EEE,5,5,5,5,3,75-100,3,5,3.5+,5,1
+Male,Southeast University,3rd,Economics,4,5,4,5,4,75-100,2,2,3-3.5,4,1
+Male,NSU,2nd,CSE,3,0,5,2,4,75-100,3,0,3-3.5,5,1
+Male,NSU,2nd,Finance,0,5,3,1,5,75-100,<1,3,2-2.5,3,0
+Female,NSU,Post-Graduate or Others,Microbiology,0,0,2,5,5,50-75,4,2,2-2.5,5,0
+Female,NSU,4th,HRM,5,4,4,5,5,75-100,<1,3,3.5+,4,1
+Female,NSU,4th,Marketing,5,3,5,2,3,75-100,1,0,2-2.5,5,0
+Male,NSU,Post-Graduate or Others,Marketing,5,3,5,3,4,50-75,2,4,2.5-3,3,0
+Male,NSU,2nd,Law,0,1,2,5,1,50-75,<1,1,2-2.5,0,0
+Female,NSU,2nd,Marketing,2,4,5,4,4,75-100,2,2,3.5+,4,1
+Male,IUB,Post-Graduate or Others,HRM,5,5,2,1,1,25-50,0,0,3-3.5,5,1
+Female,NSU,4th,CSE,4,5,5,4,4,75-100,2,2,3-3.5,1,1
+Male,NSU,4th,CSE,3,2,4,5,3,10-25,3,1,2.5-3,3,0
+Male,NSU,2nd,CSE,3,5,4,4,3,75-100,1,1,3.5+,1,1
+Male,NSU,4th,CEE,0,0,3,2,4,75-100,3,1,2-2.5,2,0
+Male,NSU,3rd,CSE,5,5,5,4,3,50-75,2,2,3-3.5,5,1
+Male,NSU,4th,Microbiology,5,5,5,3,4,75-100,2,1,3.5+,2,1
+Male,Mawlana Bhashani Science and Technology University,Post-Graduate or Others,Accounting,2,5,4,3,3,75-100,5,3,3.5+,5,1
+Male,NSU,2nd,EEE,3,5,4,4,3,75-100,3,2,3-3.5,3,1
+Male,NSU,3rd,CSE,4,3,5,4,5,75-100,1,1,3.5+,4,1
+Female,National University,3rd,Economics,3,4,4,2,3,50-75,4,4,3-3.5,4,1
+Male,NSU,3rd,EEE,3,4,1,2,2,75-100,3,3,2.5-3,2,0
+Female,NSU,4th,Environmental Science,5,4,5,5,3,75-100,3,2,3-3.5,4,1
+Male,NSU,2nd,CSE,4,5,5,2,3,75-100,3,0,3.5+,5,1
+Female,JU,3rd,CSE,3,3,5,5,4,75-100,3,2,3.5+,5,1
+Male,BRAC University,2nd,English,4,5,4,5,4,75-100,2,2,3.5+,4,1
+Female,NSU,2nd,CSE,3,2,4,3,3,75-100,3,2,2.5-3,2,0
+Female,NSU,3rd,CSE,4,4,5,5,3,75-100,3,2,3-3.5,2,1
+Male,NSU,3rd,CSE,3,2,3,2,4,75-100,3,3,2.5-3,3,0
+Male,AIUB,1st,English,1,0,1,2,0,10-25,1,1,2.5-3,5,0
+Male,NSU,3rd,Civil,5,4,4,5,5,75-100,3,3,3-3.5,4,1
+Male,NSU,1st,Economics,3,5,3,5,0,75-100,2,0,2.5-3,2,0
+Male,NSU,4th,CSE,3,3,4,4,4,75-100,2,1,2.5-3,0,0
+Male,NSU,4th,CSE,2,4,5,4,1,75-100,2,1,2.5-3,4,0
+Female,NSU,1st,CSE,0,5,5,5,4,75-100,<1,0,1-2,5,0
+Female,NSU,1st,CSE,3,0,4,2,0,75-100,0,0,2.5-3,5,0
+Male,NSU,1st,N/A,3,3,0,0,5,75-100,0,0,1-2,0,0
+Male,BRAC University,2nd,Finance,3,4,5,2,4,75-100,0,5,3-3.5,3,1
+Female,NSU,2nd,Architecture,5,4,5,5,3,25-50,2,3,2.5-3,5,0
+Male,NSU,2nd,N/A,3,5,5,5,4,75-100,1,4,3.5+,4,1
+Female,NSU,4th,CSE,4,5,5,3,5,75-100,2,2,2-2.5,5,0
+Female,NSU,2nd,N/A,2,4,4,3,5,75-100,1,3,2.5-3,5,0
+Male,NSU,2nd,CSE,3,4,3,5,5,75-100,3,2,3-3.5,2,1
+Male,NSU,1st,CSE,5,4,5,4,5,75-100,2,1,2.5-3,3,0
+Female,NSU,2nd,CSE,3,2,3,2,3,25-50,2,0,1-2,5,0
+Male,NSU,3rd,ECE,4,4,5,4,3,50-75,3,2,2-2.5,5,0
+Female,NSU,3rd,N/A,4,3,5,4,4,75-100,2,2,3-3.5,3,1
+Male,NSU,3rd,CSE,4,3,5,4,4,50-75,3,4,2.5-3,5,0
+Male,NSU,4th,CSE,5,5,4,5,1,75-100,<1,1,2.5-3,4,0
+Male,NSU,4th,Finance,3,4,5,4,4,75-100,2,1,2.5-3,5,0
+Male,NSU,4th,Finance,3,5,5,5,3,50-75,<1,1,2-2.5,3,0
+Female,NSU,Post-Graduate or Others,CSE,3,2,5,4,5,75-100,2,3,3-3.5,5,1
+Male,NSU,4th,CEE,5,5,4,5,4,75-100,5,5,3-3.5,4,1
+Male,NSU,4th,Marketing & International Business,2,2,5,3,3,75-100,2,5,2.5-3,5,0
+Female,NSU,1st,Marketing,4,3,3,2,4,75-100,4,3,3-3.5,5,1
+Male,NSU,4th,Finance,2,4,5,3,1,75-100,<1,1,2.5-3,3,0
+Male,NSU,2nd,CEE,3,3,5,1,3,75-100,3,1,3-3.5,1,1
+Male,NSU,1st,Pharmacy,3,1,3,5,2,50-75,3,2,2.5-3,4,0
+Female,NSU,1st,CSE,2,5,5,3,2,75-100,<1,0,3-3.5,5,1
+Female,NSU,Post-Graduate or Others,Biotechnology,3,3,3,3,2,50-75,3,3,2-2.5,3,0
+Male,NSU,Post-Graduate or Others,Microbiology,1,2,3,2,2,50-75,<1,0,2.5-3,4,0
+Male,NSU,1st,CSE,4,5,4,4,5,75-100,1,0,3.5+,5,1
+Female,NSU,1st,Public Health,4,4,2,2,2,75-100,2,1,3.5+,1,1
+Male,NSU,Post-Graduate or Others,CSE,4,4,3,4,4,75-100,4,1,3.5+,4,1
+Male,NSU,4th,CEE,4,5,4,5,4,50-75,4,4,2-2.5,4,0
+Male,NSU,3rd,Marketing,5,5,2,3,3,75-100,1,5,3-3.5,3,1
+Female,NSU,3rd,Economics,3,4,5,5,3,75-100,2,1,3-3.5,4,1
+Female,NSU,3rd,English,2,2,1,1,1,75-100,1,1,2-2.5,5,0
+Male,NSU,4th,CSE,0,3,5,5,3,75-100,<1,3,2.5-3,5,0
+Male,NSU,4th,CSE,3,3,5,4,3,25-50,4,3,2.5-3,3,0
+Male,NSU,3rd,EEE,2,3,5,5,5,75-100,3,5,2.5-3,3,0
+Male,NSU,3rd,Supply Chain Management,2,5,5,5,5,75-100,6,5,3.5+,5,1
+Male,NSU,3rd,EEE,1,5,5,5,3,75-100,4,3,3-3.5,3,1
+Male,NSU,3rd,CSE,1,3,4,3,4,75-100,1,1,2-2.5,2,0
+Male,NSU,2nd,CSE,1,5,2,3,2,75-100,6,4,3-3.5,5,1
+Male,NSU,1st,CEE,4,4,3,4,5,75-100,3,3,3-3.5,3,1
+Male,NSU,4th,HRM,5,2,4,4,4,75-100,4,1,3-3.5,0,1
+Male,NSU,4th,Marketing,5,4,4,5,4,75-100,<1,5,3-3.5,3,1
+Male,NSU,4th,Marketing & MIS,5,2,5,4,5,75-100,4,0,2.5-3,3,0
+Male,NSU,4th,CSE,5,5,5,4,4,75-100,2,1,3.5+,4,1
